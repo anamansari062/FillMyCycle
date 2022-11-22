@@ -11,8 +11,10 @@ Fill My Cycle is an Lab Evaluation Sheet generator. It takes experiments marks a
 3. Enter respective experiment marks. If you do not enter anything, it will be considered 0. Values above 100 will be considered 100 only.
 4. Click on Calculate to get the Lab Evaluation Sheet
 
-### Screenshot
+## Screenshot
 <p float="left">
+<img src ="output/fmc_output.jpeg" width="200" hspace="10" vspace="10">
+<img src ="output/fmc_output_0.jpeg" width="200" hspace="10" vspace="10">
 <img src ="output/fmc_output_1.jpeg" width="200" hspace="10" vspace="10">
 <img src ="output/fmc_output_2.jpeg" width="200" hspace="10" vspace="10">
 </p>
@@ -20,8 +22,7 @@ Fill My Cycle is an Lab Evaluation Sheet generator. It takes experiments marks a
 ## Demo
 [Demo Video](https://youtu.be/8K3t3XawUM4)
 
-
-## 👇 Prerequisites
+## Pre-requisites 💻
 
 Before installation, please make sure you have already installed the following tools:<br/>
 - [XCode 14.1](https://apps.apple.com/in/app/xcode/id497799835?mt=12) 
@@ -29,7 +30,7 @@ Before installation, please make sure you have already installed the following t
 some other optional prerequisites if you are interested in contributing.
 - [Git](https://git-scm.com/downloads)
 
-## 🛠️ Contribution Guidelines
+## Contribution Guidelines 🛠️
 1. Create a new issue or asked to be assigned to one
 2. Fork the project
 3. Clone the project
@@ -40,8 +41,8 @@ some other optional prerequisites if you are interested in contributing.
 8. Push to the branch ` git push `
 9. Create a Pull Request with proper description and screenshots/ screen-recording
 
-## 🛡️ License
+## License 🛡️
 FillMyCycle is licensed under the MIT License - see the [`LICENSE`](LICENSE.txt) file for more information.
 
-## 🙏 Support
+## Support 🙏
 Do ⭐️ the project if you like it :)
