@@ -12,6 +12,14 @@ Fill My Cycle is an Lab Evaluation Sheet generator. It takes experiments marks a
 4. Click on Calculate to get the Lab Evaluation Sheet
 
 ### Screenshot
+<p float="left">
+<img src ="output/fmc_output_1.jpeg" width="200" hspace="10" vspace="10">
+<img src ="output/fmc_output_2.jpeg" width="200" hspace="10" vspace="10">
+</p>
+
+## Demo
+[Demo Video](https://youtu.be/8K3t3XawUM4)
+
 
 ## 👇 Prerequisites
 
